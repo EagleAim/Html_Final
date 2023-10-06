@@ -1,0 +1,3 @@
+Author: Logan King
+Purpous of projext: To show what I learned to the test in the form of a cat care website.
+Some notes: I have changed my mind on how the website will look. I think is better branding if I hve the base colors of orange, yellow, white and black. Too many colors will make the website look too out of place and dull when switching pages. Also I was in a spooky mood so the colors match the month.

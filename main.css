@@ -1,0 +1,32 @@
+/*Format settings for page links-- */
+.parent{
+    display: inline-grid;
+    grid-template-columns: 5fr 2fr;
+    
+}
+
+ul {
+list-style-type:none
+}
+/*--------------------------------*/
+
+/*Background Colors*/
+Body {
+    background-color: orange;
+}
+
+.TopBox {
+    background: yellow;
+    padding: 1em 0;
+  }
+
+.CenterBox {
+    background: white;
+    padding: 1em 0;
+}
+
+.BottomBox {
+    background: yellow;
+    padding: 1em 0;
+  }
+/*--------------------------------*/
