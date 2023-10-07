@@ -30,3 +30,9 @@ Body {
     padding: 1em 0;
   }
 /*--------------------------------*/
+
+#textboxid
+{
+    height:200px;
+    font-size:14pt;
+}
